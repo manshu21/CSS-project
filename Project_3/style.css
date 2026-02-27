@@ -1,0 +1,26 @@
+body{
+    background-color:yellow;
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color: lime;
+}
+#span1{
+    color: red;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+#span2{
+    color: black;
+    font-size: 50px;
+}
+#para2{
+    color: black;
+    font-size: 40px;
+}
